@@ -1,0 +1,34 @@
+{
+  "name": "swarmscript",
+  "version": "0.1.0",
+  "description": "The SwarmScript programming language.",
+  "license": "MIT",
+  "author": "Paul Bohm <paul@bohm.ooo>",
+  "homepage": "https://github.com/swarmscript/swarmscript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swarmscript/swarmscript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/swarmscript/swarmscript/issues"
+  },
+  "keywords": [
+    "swarmscript",
+    "swarm"
+  ],
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
