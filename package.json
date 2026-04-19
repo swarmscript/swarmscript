@@ -4,13 +4,13 @@
   "description": "The SwarmScript programming language.",
   "license": "MIT",
   "author": "Paul Bohm <paul@bohm.ooo>",
-  "homepage": "https://github.com/swarmscript/swarmscript",
+  "homepage": "https://github.com/swarmvm/swarmscript",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swarmscript/swarmscript.git"
+    "url": "git+https://github.com/swarmvm/swarmscript.git"
   },
   "bugs": {
-    "url": "https://github.com/swarmscript/swarmscript/issues"
+    "url": "https://github.com/swarmvm/swarmscript/issues"
   },
   "keywords": [
     "swarmscript",
