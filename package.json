@@ -1,6 +1,6 @@
 {
   "name": "swarmscript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The SwarmScript programming language.",
   "license": "MIT",
   "author": "Paul Bohm <paul@bohm.ooo>",
